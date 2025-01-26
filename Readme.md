@@ -1,7 +1,16 @@
 # Overview
 
 This is just for personal reviews of books I have read, hopefully this will help me retain information and may be useful for others.
+## 2025
 
+### TODO
+- Building LLMs for Production
+- System Design Interview Vol 1 and 2
+- Observability Engineering
+- The Staff Engineer's Path
+- Game Engine Architecture
+- Game Programming Patterns
+  
 ## 2024
 
 | Book | Score | Genre | Format |  Review | Additional Notes |
